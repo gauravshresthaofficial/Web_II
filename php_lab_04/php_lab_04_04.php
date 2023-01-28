@@ -1,4 +1,5 @@
-<!-- create a php function that accepts the list of countries and search value as parameters and checks whether the searched value exists in the list or not. And display the output. 
+<!-- create a php function that accepts the list of countries and search value as parameters
+and checks whether the searched value exists in the list or not. And display the output. 
 Note: Call the function for true and false conditions. -->
 
 <?php
